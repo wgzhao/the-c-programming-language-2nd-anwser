@@ -5,9 +5,9 @@ The project is a collection of my solutions to the exercises in the book "[The C
 
 ## Environment
 
-- OS: macOS 10.14.6
-- Compiler: Apple LLVM version 10.0.1 (clang-1001.0.46.4)
-- Editor: Visual Studio Code 1.38.1
+- OS: macOS 14.2
+- Compiler: Apple LLVM version 15.0.0 (clang-1500.1.0.2.5)
+- Editor: Visual Studio Code 1.85.1
 - Extension: C/C++ Extension Pack 1.3.0
 - Formatter: clang-format 9.0.0
   
